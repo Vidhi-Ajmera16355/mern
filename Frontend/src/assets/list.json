@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "name":"Asian Royale Luxury Emulsion Paint",
+        "litre":"10lt",
+        "price":"4800",
+        "c":"f",
+        "image":"https://static.asianpaints.com/content/dam/asian_paints/products/packshots/interior-walls-royale-shyne-luxury-emulsion-asian-paints.png"
+    },
+    {
+        "id":2,
+        "name":"Asian Paints Tractor Emulsion Paint",
+        "litre":"10lt",
+        "price":"2940",
+        "c":"f",
+        "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRawvM3-nsc9iUomMoZlZIX4sd8_tGllf9uao8DaB92OwfZPcf-nZn35O2ztzekaKhNUB7fhcwrPUW_kpcOoJUllm6uJw5v9mY_jpIoDNQHKvB-7xakHFhn_4iIR1naZG0lpGPsZGyzyeQ&usqp=CAc"
+    },
+    {
+        "id":3,
+        "name":"ASIAN PAINT OIL PREMIUM IN WHITE COLOUR ",
+        "litre":"4lt",
+        "price":"6300",
+        "c":"f",
+        "image":"https://m.media-amazon.com/images/I/31PWVX491cL.jpg"
+    },
+    {
+        "id":4,
+        "name":"Asian Paints Apex Ultima WP Exterior Emulsiont",
+        "litre":"10lt",
+        "price":"3500",
+        "c":"f",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2021/8/CO/AL/JX/64352112/asian-paints-apex-ultima-wp-exterior-emulsion-10-litre-500x500.jpg"
+    },
+    {
+        "id":5,
+        "name":"Berger Paints Bison W1 Base Interior Emulsion",
+        "litre":"10lt",
+        "price":"1250",
+        "c":"f",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2023/1/WL/LB/BO/12041377/a-1000x1000.jpg"
+    },
+    {
+        "id":6,
+        "name":"Berger Paints Bison W1 Base Interior Emulsion",
+        "litre":"10lt",
+        "price":"1250",
+        "c":"f",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2023/1/WL/LB/BO/12041377/a-1000x1000.jpg"
+    },
+    {
+        "id":7,
+        "name":"Berger Paints Bison W1 Base Interior Emulsion",
+        "litre":"10lt",
+        "price":"1250",
+        "c":"f",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2023/1/WL/LB/BO/12041377/a-1000x1000.jpg"
+    },
+    {
+        "id":8,
+        "name":"Berger Paints Bison W1 Base Interior Emulsion",
+        "litre":"10lt",
+        "price":"1250",
+        "c":"f",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2023/1/WL/LB/BO/12041377/a-1000x1000.jpg"
+    },
+    {
+        "id":9,
+        "name":"Berger Paints Bison W1 Base Interior Emulsion",
+        "litre":"10lt",
+        "price":"1250",
+        "c":"f",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2023/1/WL/LB/BO/12041377/a-1000x1000.jpg"
+    }
+    
+
+]
